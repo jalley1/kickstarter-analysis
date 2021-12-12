@@ -20,17 +20,21 @@
 
 ### Conclusions
 
-- There are two conclusions I can draw about the Theater Outcomes by Launch Date. First, the campaigns that occurred in the middle of the year had the highest number of successful outcomes. Second, the campaigns that occurred at the end of the year had the least amount of successful outcomes, and the highest number of failed outcomes. So it is best to start the crowdfunding campaign in the middle of the year and not at the end of the year. 
+- There are two conclusions I can draw from the relationship between theater outcomes as their launch date. First, the campaigns that occurred in the middle of the year had the highest number of successful outcomes. Second, the campaigns that occurred at the end of the year had the least amount of successful outcomes, and the highest number of failed outcomes. So it is best to start the crowdfunding campaign in the middle of the year and not at the end of the year. 
 
 ![](Theater_Outcomes_vs_Launch.png) 
 
-- Additionally, I can conclude that a successful outcome occurred most often when the Goal amount to be raised was $4,999 or less.
+- Additionally, as far as the relationship between theater outcomes and their funding goal amount, I can conclude that a successful theatre outcome occurred most often when the goal amount to be raised was $4,999 or less.
 
 ![](Outcomes_vs_Goals.png) 
 
 ### Limitations
 
-- There were some limitations in the dataset. One limitation is the sample size. For campaigns with goals over $25,000, there were only 42 projects in the sample set. That may not be enough of a sample size for the results to be statistically significant. A second limitation, are the categories. Some campaigns may have been mistakenly categorized as belonging to the "theatre" category which would throw off the analysis.
+- There were some limitations in the dataset. One limitation is the sample size. For campaigns with goals over $25,000, there were only 42 projects in the sample set. That may not be enough of a sample size for the results to be statistically significant. 
+
+![](Number_of_Projects.PNG)
+
+- A second limitation, are the categories. Some campaigns may have been mistakenly categorized as belonging to the "theatre" category which would throw off the analysis.
 
 ### Additional Analysis
 
