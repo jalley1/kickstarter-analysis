@@ -21,9 +21,12 @@
 ### Conclusions
 
 - There are two conclusions I can draw about the Theater Outcomes by Launch Date. First, the campaigns that occurred in the middle of the year had the highest number of successful outcomes. Second, the campaigns that occurred at the end of the year had the least amount of successful outcomes, and the highest number of failed outcomes. So it is best to start the crowdfunding campaign in the middle of the year and not at the end of the year. 
-![](Outcomes_vs_Goals) 
+
+![](Theater_Outcomes_vs_Launch.png) 
 
 - Additionally, I can conclude that a successful outcome occurred most often when the Goal amount to be raised was $4,999 or less.
+
+![](Outcomes_vs_Goals.png) 
 
 ### Limitations
 
